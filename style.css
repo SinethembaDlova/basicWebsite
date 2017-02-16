@@ -39,9 +39,20 @@ img
   height: 100%;
 }
 
-.table
+.favcity
 {
-  background-color: rgba(0,0,0,0.5);
+  background-color: #59a0ee;
   margin-top: -20px;
-  height: 50%;
+  height: 70%;
+}
+
+
+#nyc
+{
+  width: 24%;
+  height: 59%;
+  border-radius: 200px;
+  border: none;
+  padding: 60px;
+  margin: 25px;
 }
